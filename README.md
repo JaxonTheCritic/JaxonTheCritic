@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/yourImageID.jpg" width="150" height="150" alt="Fire Punch Face" />
+  <img src="https://static.wikia.nocookie.net/fire_punch/images/8/8f/Agni%27s_face.png/revision/latest?cb=20230527175507" width="150" height="150" alt="Fire Punch Face" />
 </p>
 
 <h1 align="center">Hi, I'm Jaxon 👋</h1>
