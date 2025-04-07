@@ -5,8 +5,10 @@
 <h1>Hi, I'm Jaxon 👋</h1>
 
 <p>
-  🔗 <a href="https://github.com/JaxonTheCritic/dev-easy">My Best Project</a> 
-  💼 <a href="https://www.linkedin.com/in/jaxon-bladow-a1958435a/">LinkedIn Profile</a>
+<a href="https://github.com/JaxonTheCritic/dev-easy">My Best Project</a> 
+</p>
+<p>
+<a href="https://www.linkedin.com/in/jaxon-bladow-a1958435a/">LinkedIn Profile</a>
 </p>
 
 ---
