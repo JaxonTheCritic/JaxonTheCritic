@@ -4,8 +4,8 @@
 
 <h1 align="center">Hi, I'm Jaxon 👋</h1>
 
-<p align="center">
-  🔗 <a href="https://github.com/JaxonTheCritic/dev-easy">My Best Project</a> •
+<p>
+  🔗 <a href="https://github.com/JaxonTheCritic/dev-easy">My Best Project</a> 
   💼 <a href="https://www.linkedin.com/in/jaxon-bladow-a1958435a/">LinkedIn Profile</a>
 </p>
 
