@@ -19,13 +19,15 @@
 
   <h1>I like media and stuff so I made a 5x5 of some of my favorite pieces of art.</h1>
   
-  <details>
-  <summary>Order</summary>
-    * I broke my finger
-    * Corey said he was not famous
-    * Hayden likes to swim
-    * Olivia knows her alphabet backwards
-   </details>
+<details><summary>Our Facts</summary>
+        
+* Movies
+* TV Show
+* Video Games
+* Books
+* Music
+
+</details>
   
   <img src="chart.png" width="1000" alt="Topster" />
 
