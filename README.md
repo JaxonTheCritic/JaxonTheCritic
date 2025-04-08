@@ -15,6 +15,7 @@
   
   Welcome to my GitHub profile. (I have no idea what to put here)
   
-  ![shinji](https://tenor.com/view/shinji-ikari-gif-25054017)
+ ![Shinji Ikari](https://media.tenor.com/IQtgM9z3_AQAAAAC/shinji-ikari.gif)
+
   
   
