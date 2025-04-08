@@ -33,5 +33,7 @@
       
 
   <p>yes this really is all I have to talk about</p>
+
+  <img src="https://raw.githubusercontent.com/JaxonTheCritic/JaxonTheCritic/main/sketch.gif" width="250" alt="another shinji GIF" />
   
   
