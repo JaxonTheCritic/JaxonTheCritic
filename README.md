@@ -13,6 +13,8 @@
   
   ---
   
-  Welcome to my GitHub profile.
+  Welcome to my GitHub profile. (I have no idea what to put here)
+  
+  ![shinji](https://tenor.com/view/shinji-ikari-gif-25054017)
   
   
