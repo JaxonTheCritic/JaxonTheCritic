@@ -19,13 +19,11 @@
 
   <h1>I like media and stuff so I made a 5x5 of some of my favorite pieces of art.</h1>
   <details><summary>Order</summary>
-        
-    * movies
-    * tv shows
-    * games
-    * books
-    * music
-
+    movies
+    tv shows
+    games
+    books
+    music
    </details>
   
   <img src="chart.png" width="1000" alt="Topster" />
