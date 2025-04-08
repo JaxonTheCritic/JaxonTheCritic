@@ -29,7 +29,7 @@
 
 </details>
   
-  <img src="chart.png" width="1000" alt="Topster" />
+  <img src="chart.png" width="1200" alt="Topster" />
 
       
 
