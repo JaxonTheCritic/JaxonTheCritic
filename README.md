@@ -18,13 +18,15 @@
   <img src="https://raw.githubusercontent.com/JaxonTheCritic/JaxonTheCritic/main/shinji.gif" width="250" alt="shinji GIF" />
 
   <h1>I like media and stuff so I made a 5*5 of some of my favorite pieces of art.</h1>
-  <p>the order is</p>
-  <p>movies</p>
-  <p>tv shows</p>
-  <p>games</p>
-  <p>books</p>
-  <p>music</p>
+  <details><summary>Order</summary>
+        
+    * movies
+    * tv shows
+    * games
+    * books
+    * music
 
+   </details>
   
   <img src="chart.png" width="1000" alt="Topster" />
 
