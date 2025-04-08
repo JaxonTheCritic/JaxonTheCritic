@@ -21,11 +21,10 @@
   
   <details>
   <summary>Order</summary>
-    *movies
-    *tv shows
-    *games
-    *books
-    *music
+    * I broke my finger
+    * Corey said he was not famous
+    * Hayden likes to swim
+    * Olivia knows her alphabet backwards
    </details>
   
   <img src="chart.png" width="1000" alt="Topster" />
