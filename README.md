@@ -18,7 +18,8 @@
   <img src="https://raw.githubusercontent.com/JaxonTheCritic/JaxonTheCritic/main/shinji.gif" width="250" alt="shinji GIF" />
 
   <h1>I like media and stuff so I made a 5x5 of some of my favorite pieces of art.</h1>
-  <details><summary>Order</summary>
+  <details>
+  <summary>Order</summary>
     *movies
     *tv shows
     *games
@@ -30,7 +31,7 @@
 
       
 
-  <p>yes this really is all I have to talk about</p>
+  <p>yes this really is all I have to talk about...</p>
 
   <img src="https://raw.githubusercontent.com/JaxonTheCritic/JaxonTheCritic/main/sketch.gif" width="250" alt="another shinji GIF" />
   
