@@ -19,7 +19,7 @@
 
   <h1>I like media and stuff so I made a 5x5 of some of my favorite pieces of art.</h1>
   
-<details><summary>Our Facts</summary>
+<details><summary>Order</summary>
         
 * Movies
 * TV Show
